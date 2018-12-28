@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pendu", "Pendu\Pendu.csproj", "{79AE6BC2-FCD4-4AAB-9AB2-6FEE8DCC7B68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenduLib", "PenduLib\PenduLib.csproj", "{4509F515-20CE-4D10-B05C-C08A8D53E8CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{79AE6BC2-FCD4-4AAB-9AB2-6FEE8DCC7B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79AE6BC2-FCD4-4AAB-9AB2-6FEE8DCC7B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79AE6BC2-FCD4-4AAB-9AB2-6FEE8DCC7B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4509F515-20CE-4D10-B05C-C08A8D53E8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4509F515-20CE-4D10-B05C-C08A8D53E8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4509F515-20CE-4D10-B05C-C08A8D53E8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4509F515-20CE-4D10-B05C-C08A8D53E8CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

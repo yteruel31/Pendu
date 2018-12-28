@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PenduBase")]
+[assembly: AssemblyTitle("PenduLib")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PenduBase")]
+[assembly: AssemblyProduct("PenduLib")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("79ae6bc2-fcd4-4aab-9ab2-6fee8dcc7b68")]
+[assembly: Guid("4509f515-20ce-4d10-b05c-c08a8d53e8cb")]
 
 // Version information for an assembly consists of the following four values:
 //

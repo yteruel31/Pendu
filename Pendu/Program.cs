@@ -1,15 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using PenduLib.Base;
 
-namespace Pendu
+namespace PenduConsole
 {
     class Program
     {
         static void Main(string[] args)
         {
+            PenduBase pendu = new PenduBase();
+            while (pendu.TriesRemining < 9)
+            {
+                pendu.Create();
+            }
         }
     }
 }
